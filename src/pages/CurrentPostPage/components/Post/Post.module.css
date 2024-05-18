@@ -1,0 +1,19 @@
+.post {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  border: 1px solid rgb(196, 189, 189);
+  border-radius: 10px;
+}
+
+.title {
+  font-size: 24px;
+  padding: 10px;
+  border-bottom: 1px solid rgb(196, 189, 189);
+  text-align: center;
+}
+
+.description {
+  text-align: center;
+  padding: 10px;
+}

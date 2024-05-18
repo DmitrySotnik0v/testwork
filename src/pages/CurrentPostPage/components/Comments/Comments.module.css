@@ -1,0 +1,19 @@
+.comments {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.userInfo {
+  margin-bottom: 10px;
+  display: flex;
+  align-items: center;
+  gap: 5px;
+}
+
+.avatar {
+  width: 20px;
+  height: 20px;
+  background-color: rgb(49, 20, 214);
+  border-radius: 50%;
+}

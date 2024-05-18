@@ -1,0 +1,23 @@
+.postsPage {
+  max-width: 800px;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.postTitle {
+  text-decoration: none;
+  padding: 15px 30px;
+  background-color: rgb(60, 118, 206);
+  color: white;
+  border-radius: 10px;
+}
+
+.postTitle:visited {
+  color: white;
+}
+
+.postTitle:hover {
+  background-color: rgb(13, 50, 105);
+}
